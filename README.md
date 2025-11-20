@@ -15,5 +15,3 @@ ABM Completo: Altas, Bajas y Modificaciones de 5 entidades distintas.
 Validaciones: Control de duplicados e integridad de datos.
 
 Algoritmos: Implementación manual de ordenamiento de burbuja y corte de control para estadísticas.
-
-Capturas: (Aquí insertas una imagen del menú principal y otra de una carga de datos).
